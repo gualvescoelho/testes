@@ -21,7 +21,7 @@
                     <PolygonSymbolizer>
                         <Fill>
                             <!-- Cor do preenchimento com opacidade -->
-                            <CssParameter name="fill">#228B22</CssParameter> <!-- Cor verde para representar vegetação -->
+                            <CssParameter name="fill">#FF69B4</CssParameter> <!-- Cor verde para representar vegetação -->
                             <CssParameter name="fill-opacity">0.7</CssParameter>
                         </Fill>
                         <Stroke>
