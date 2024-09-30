@@ -6,14 +6,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     
     <NamedLayer>
-        <Name>geonode:grassland_1a6cf2b743207d6f1fb2f59866424017</Name>
+        <Name>geonode:alaska_ff0eea8f1c794017cdb9a69fe9ef413e </Name>
         <UserStyle>
             <Title>Grassland Style</Title>
             <Abstract>SLD para estilizar o dataset grassland</Abstract>
             
             <FeatureTypeStyle>
                 <Rule>
-                    <Name>grassland_rule</Name>
+                    <Name>alaska_rule</Name>
                     <Title>Área de Grassland</Title>
                     <Abstract>Estilo de preenchimento e contorno para áreas de grassland</Abstract>
 
